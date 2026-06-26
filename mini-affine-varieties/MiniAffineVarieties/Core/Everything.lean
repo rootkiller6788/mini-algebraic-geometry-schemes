@@ -337,7 +337,6 @@ Key algebraic tools:
 - Koszul complexes and depth
 -/
 
-theorem algebraic_method_example : True := by trivial
 
 /-!
 ## 5.2 Topological Proof Method
@@ -352,7 +351,6 @@ Key topological facts:
 - The closure of a point {p} is an irreducible variety V(p)
 -/
 
-theorem topological_method_example : True := by trivial
 
 /-!
 ## 5.3 Noetherian Induction
@@ -1494,15 +1492,11 @@ theorem formal_gaga : True := by trivial
 /-- Example of Noetherian induction proof. -/
 theorem noetherian_induction_example (n : Nat) : True := by trivial
 /-- Example of devissage argument (reduction to simple cases). -/
-theorem devissage_example : True := by trivial
 /-- Example of deformation to the normal cone. -/
 theorem deformation_normal_cone : True := by trivial
 /-- Example of limit arguments (Grothendieck's EGA style). -/
-theorem limit_arguments_example : True := by trivial
 /-- Example of spreading out (from generic to all fibers). -/
-theorem spreading_out_example : True := by trivial
 /-- Example of specialization arguments. -/
-theorem specialization_example : True := by trivial
 
 -- L6 Canonical Examples (additional coverage)
 /-- The Veronese embedding v_d: P^n -> P^{N}. -/

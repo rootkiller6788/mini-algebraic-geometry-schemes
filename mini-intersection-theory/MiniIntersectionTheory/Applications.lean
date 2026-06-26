@@ -30,7 +30,6 @@ theorem lines_meeting_four_lines : countObjects (ProjectiveSpace 4) [] = 0 := rf
 class ConservationOfNumber (M : Type u) [Variety M] where
   principle : True
 
-theorem conservation_of_number_example : True := by trivial
 
 /-! ## Application 2: Singularity Theory -/
 
