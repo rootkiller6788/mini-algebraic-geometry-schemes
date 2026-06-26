@@ -1,0 +1,3 @@
+import MiniModuliSpaces.Properties.Invariants
+import MiniModuliSpaces.Properties.Preservation
+import MiniModuliSpaces.Properties.ClassificationData

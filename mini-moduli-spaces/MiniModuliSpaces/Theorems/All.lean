@@ -1,0 +1,4 @@
+import MiniModuliSpaces.Theorems.Basic
+import MiniModuliSpaces.Theorems.Classification
+import MiniModuliSpaces.Theorems.Main
+import MiniModuliSpaces.Theorems.UniversalProperties
